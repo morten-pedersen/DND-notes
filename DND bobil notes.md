@@ -17,8 +17,7 @@
 
 # Magic items wishlist
 ## F
-- cloak of protection ?
-- circlet of blasting ?
+- cloak of protection
 - medallion of thoughts
 - periapt of wound closure
 - ring of water walking
