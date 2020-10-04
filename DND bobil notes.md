@@ -17,27 +17,26 @@
 
 # Magic items wishlist
 ## F
-- cloak of protection
+- cloak of protection *
 - medallion of thoughts
-- periapt of wound closure
-- ring of water walking
-- slippers of spider climbing
+- ring of water walking *
+- slippers of spider climbing *
 
 ## G
 - boots of levitation
 - bracers of defense
 - cloak of displacement
-- cape of the mountebank
+- cape of the mountebank *
 - cube of force
 - gem of seeing
-- helm of teleport
+- helm of teleport *
 - iron bands of bilarro
 - mantle of spell resistance
 - ring of evasion
 - ring of free action
 - ring of protection
 - ring of resistance
-- ring of spell storing
+- ring of spell storing *
 - robe of eyes
 - rope of entanglement
 - stone of controlling earth elementals
@@ -45,22 +44,22 @@
 ## H
 - cloak of arachnida
 - ring of regeneration
-- ring of shooting stars
+- ring of shooting stars *
 - robe of scintillating colors
-- robe of stars
+- robe of stars *
 - rod of absorption
 - rod of security
 - staff of fire
 - staff of power
-- tome of leadership and influence
+- tome of leadership and influence *
 
 ## I
 - cloak of invisibility
 - scarab of protection
-- staff of the magi
-- ring of invisibility
-- ring of spell turning
-- robe of the archmagi hehe
+- staff of the magi hehe
+- ring of invisibility *
+- ring of spell turning *
+- robe of the archmagi hehe *
 - well of many worlds
 
 
