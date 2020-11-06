@@ -1,3 +1,6 @@
+# Backstory
+## Traits
+
 # Group coin and items
 ## Coin
 - 366c (1 til overs)
